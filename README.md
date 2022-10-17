@@ -1,6 +1,6 @@
 ### Olá , Meu nome e Gilnathan  👋
 
-- 🔭 Procurando estagio na mercado de Front-end 
+- 🔭 Procurando estagio no mercado de Front-end 
 - 🌱 Atualmente estudando JS ...
 
 <div align="center">
